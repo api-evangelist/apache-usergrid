@@ -1,0 +1,46 @@
+{
+    "name": "Apache Usergrid",
+    "description": "<p>Build Apps not Servers! Whether you need to support one App or a hundred, Usergrid is your backend. As easy as a LAMP stack, but built for mobile. Get Apps to production in record time and stop wasting cycles writing server-side code. Complete SDKs for iOS, Android, HTML5\/JS, Node.js, Ruby, Java, .NET, and PHP. Open source since 2011.<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/apache-usergrid.png",
+    "tags": [
+        "apache",
+        "api tools",
+        "baas",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/apache-usergrid\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Apache Usergrid",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/apache-usergrid.png",
+            "humanURL": "http:\/\/usergrid.apache.org\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/apache-usergrid-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/apache\/usergrid"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/usergrid"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/usergrid.apache.org\/"
+        }
+    ]
+}
